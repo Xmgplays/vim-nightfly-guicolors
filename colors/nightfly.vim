@@ -254,7 +254,7 @@ exec 'highlight TermCursor guibg=' . s:cadet_blue . ' guifg=bg gui=none'
 exec 'highlight ColorColumn guibg=' . s:black_blue
 
 " Conceal color, as used by indentLine plugin
-exec 'highlight Conceal guibg=bg guifg=' . s:deep_blue
+exec 'highlight Conceal guibg=bg guifg=' . s:violet
 
 " Custom nightfly highlight groups
 exec 'highlight NightflyReset guifg=fg'
